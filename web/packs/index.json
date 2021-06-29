@@ -1,6 +1,7 @@
 {
   "packs": [
-    "felixthatcat.json"
+    "felixthatcat.json",
+    "chipandhell.json"
   ],
   "homeserver_url": "https://dascoyote.xyz"
 }
